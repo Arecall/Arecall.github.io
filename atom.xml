@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arecall.github.io/</id>
     <title>Thy博客</title>
-    <updated>2019-06-26T04:04:20.320Z</updated>
+    <updated>2019-06-26T04:07:04.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arecall.github.io/"/>
     <link rel="self" href="https://arecall.github.io//atom.xml"/>
@@ -10,6 +10,49 @@
     <logo>https://arecall.github.io//images/avatar.png</logo>
     <icon>https://arecall.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Thy博客</rights>
+    <entry>
+        <title type="html"><![CDATA[惠普暗影精灵2 Mojave（几乎完美黑苹果）]]></title>
+        <id>https://arecall.github.io//post/hui-pu-an-ying-jing-ling-2-mojaveji-hu-wan-mei-hei-ping-guo</id>
+        <link href="https://arecall.github.io//post/hui-pu-an-ying-jing-ling-2-mojaveji-hu-wan-mei-hei-ping-guo">
+        </link>
+        <updated>2019-06-26T04:05:15.000Z</updated>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E6%96%B0%E7%9A%84%E6%94%B9%E5%8F%98">新的改变</a></li>
+<li><a href="#%E5%B7%B2%E7%9F%A5bug">已知BUG</a></li>
+<li><a href="#mac-osmojave%E7%9A%84%E9%95%9C%E5%83%8F%E7%99%BE%E5%BA%A6%E5%8D%B3%E5%8F%AF"><strong>Mac os（Mojave）的镜像百度即可！</strong></a></li>
+<li><a href="#github%E5%BC%80%E6%BA%90%E5%9C%B0%E5%9D%80">Github开源地址</a></li>
+</ul>
+</li>
+</ul>
+(惠普暗影精灵2 Mojave)</p>
+<h2 id="新的改变">新的改变</h2>
+<p>2018年6月5日，在2018苹果全球开发者大会上，苹果发布了mac OS Mojave系统。</p>
+<ol>
+<li><strong>夜间模式</strong> ，MacOS Mojave的夜间模式，不仅使UI变暗，
+还切换壁纸，窗口边框和窗口内容，此外，XCode同样也支持夜间模式。用户可以自行设置夜晚模式，也可以由系统决定随时间自动启动。</li>
+<li><strong>桌面堆积</strong>，可以通过类型、日期、标签等进行分类，侧栏底部的新快速操作，可快速执行旋转图像等操作。几乎可以在任何文件视图中使用侧边栏。如果选择多个文件，它可以对所有文件执行操作，例如将它们组装成PDF。</li>
+<li><strong>画廊视图（Gallery View）</strong>，可预览图片、视频、PPT、表格、PDF等，侧边栏支持完整元数据，右下角增加快捷工具栏可执行旋转等操作，侧边栏可以在几乎任何文件视图中使用，选择多个文件后可以执行整体操作如生成PDF。</li>
+<li><strong>截屏</strong>，功能非常丰富，就像在iOS上截图时角落里会出现大拇指图标，点击就会出现快速标记工具。</li>
+<li><strong>iOS应用登陆桌面</strong>   ，Apple News苹果新闻、Stock股票、Voice Memos语音备忘录、Home家庭都会来到macOS，基本上可以视为iPad版本，为此苹果从iOS上移植过来了一些关键框架。</li>
+<li><strong>HomeKit</strong>，可以在Mac上添加和管理HomeKit设备，依然支持Siri语音控制。</li>
+<li><strong>Quick Look</strong>，加入Markup，可以直接把签名拖拽到文档内。</li>
+<li><strong>Continuity Camera</strong>，可以直接将iPhone里已有或者拍摄的照片直接导入桌面文档，还可以扫描手机上的文档并发送结果。</li>
+<li><strong>安全和隐私</strong>，任何应用都默认受到保护。Safari减少对用户数据的追踪。网页信息追踪保护默认关闭。加强硬件指纹识别安全等级（iOS 12/macOS Mojave同步）。</li>
+<li><strong>应用商店</strong>，界面重新设计像iOS商店看齐，增加新的分类包括发现、创建、工作、游戏、开发、分类、更新，增加关于应用的故事（Stories）。</li>
+</ol>
+<h2 id="已知bug">已知BUG</h2>
+<ol>
+<li><strong>WIFI模块不可用</strong></li>
+<li><strong>电池DDST有问题，未修复</strong></li>
+<li><strong>亮度调节需要外接键盘，使用<kbd>Fn</kbd>+亮度调节经行第一次矫正，以后直接使用后电脑键盘de<kbd>Fn</kbd>+亮度调节。</strong></li>
+</ol>
+<h2 id="mac-osmojave的镜像百度即可"><strong>Mac os（Mojave）的镜像百度即可！</strong></h2>
+<h2 id="github开源地址">Github开源地址</h2>
+<p>传送地址: <a href="https://github.com/Arecall/-Mac-os">Mojave 暗影精灵2</a>.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小程序组件化开发框架 WePY]]></title>
         <id>https://arecall.github.io//post/xiao-cheng-xu-zu-jian-hua-kai-fa-kuang-jia-wepy</id>
