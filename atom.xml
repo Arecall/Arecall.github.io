@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arecall.github.io/</id>
     <title>Thy博客</title>
-    <updated>2019-06-26T03:55:28.889Z</updated>
+    <updated>2019-06-26T04:04:20.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arecall.github.io/"/>
     <link rel="self" href="https://arecall.github.io//atom.xml"/>
@@ -10,6 +10,86 @@
     <logo>https://arecall.github.io//images/avatar.png</logo>
     <icon>https://arecall.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Thy博客</rights>
+    <entry>
+        <title type="html"><![CDATA[小程序组件化开发框架 WePY]]></title>
+        <id>https://arecall.github.io//post/xiao-cheng-xu-zu-jian-hua-kai-fa-kuang-jia-wepy</id>
+        <link href="https://arecall.github.io//post/xiao-cheng-xu-zu-jian-hua-kai-fa-kuang-jia-wepy">
+        </link>
+        <updated>2019-06-26T03:59:27.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+<ul>
+<li>WePY (发音: /'wepi/)是一款让小程序支持组件化开发的框架，通过预编译的手段让开发者可以选择自己喜欢的开发风格去开发小程序。框架的细节优化，Promise，Async Functions的引入都是为了能让开发小程序项目变得更加简单，高效。</li>
+<li>同时WePY也是一款成长中的框架，大量吸收借鉴了一些优化前端工具以及框架的设计理念和思想。如果WePY有不足地方，或者你有更好的想法，欢迎提交ISSUE或者PR。</li>
+</ul>
+<h2 id="特性">特性：</h2>
+<ul>
+<li>类Vue开发风格</li>
+<li>支持自定义组件开发</li>
+<li>支持引入NPM包</li>
+<li>支持Promise</li>
+<li>支持ES2015+特性，如Async Functions</li>
+<li>支持多种编译器，Less/Sass/Stylus/PostCSS、Babel/Typescript、Pug</li>
+<li>支持多种插件处理，文件压缩，图片压缩，内容替换等</li>
+<li>支持 Sourcemap，ESLint等</li>
+<li>小程序细节优化，如请求列队，事件优化等</li>
+</ul>
+<h2 id="demo">Demo</h2>
+<pre><code>&lt;style lang=&quot;less&quot;&gt;
+    @color: #4D926F;
+    .userinfo {
+        color: @color;
+    }
+&lt;/style&gt;
+&lt;template lang=&quot;pug&quot;&gt;
+    view(class='container')
+        view(class='userinfo' @tap='tap')
+            mycom(:prop.sync='myprop' @fn.user='myevent')
+            text {{now}}
+&lt;/template&gt;
+
+&lt;script&gt;
+    import wepy from 'wepy';
+    import mycom from '../components/mycom';
+
+    export default class Index extends wepy.page {
+        
+        components = { mycom };
+        data = {
+            myprop: {}
+        };
+        computed = {
+            now () { return new Date().getTime(); }
+        };
+        async onLoad() {
+            await sleep(3);
+            console.log('Hello World');
+        }
+        sleep(time) {
+            return new Promise((resolve, reject) =&gt; setTimeout(resolve, time * 1000));
+        }
+    }
+&lt;/script&gt;
+</code></pre>
+<h1 id="安装使用">安装使用</h1>
+<h4 id="安装更新-wepy-命令行工具">安装（更新） wepy 命令行工具。</h4>
+<pre><code>    npm install wepy-cli -g
+</code></pre>
+<h4 id="生成开发示例">生成开发示例</h4>
+<pre><code>wepy init standard myproject
+</code></pre>
+<h4 id="安装依赖">安装依赖</h4>
+<pre><code>cd myproject
+npm install
+</code></pre>
+<h4 id="开发实时编译">开发实时编译</h4>
+<pre><code>wepy build --watch
+</code></pre>
+<h4 id="开发者工具导入项目">开发者工具导入项目</h4>
+<p>使用  <strong>微信开发者工具</strong> 新建项目，本地开发选择项目根目录，会自动导入项目配置。</p>
+<h1 id="项目传送">项目传送：</h1>
+<p><a href="https://tencent.github.io/wepy/">项目地址</a>：https://tencent.github.io/wepy/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://arecall.github.io//post/hello-gridea</id>
