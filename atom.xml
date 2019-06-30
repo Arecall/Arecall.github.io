@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arecall.github.io/</id>
     <title>Thy博客</title>
-    <updated>2019-06-30T01:32:36.769Z</updated>
+    <updated>2019-06-30T01:33:14.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arecall.github.io/"/>
     <link rel="self" href="https://arecall.github.io//atom.xml"/>
@@ -93,11 +93,18 @@
         <link href="https://arecall.github.io//post/xiao-cheng-xu-zu-jian-hua-kai-fa-kuang-jia-wepy">
         </link>
         <updated>2019-06-26T03:59:27.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="介绍">介绍</h2>
+<ul>
+<li>WePY (发音: /'wepi/)是一款让小程序支持组件化开发的框架，通过预编译的手段让开发者可以选择自己喜欢的开发风格去开发小程序。框架的细节优化，Promise，Async Functions的引入都是为了能让开发小程序项目变得更加简单，高效。</li>
+<li>同时WePY也是一款成长中的框架，大量吸收借鉴了一些优化前端工具以及框架的设计理念和思想。如果WePY有不足地方，或者你有更好的想法，欢迎提交ISSUE或者PR。</li>
+</ul>
+]]></summary>
         <content type="html"><![CDATA[<h2 id="介绍">介绍</h2>
 <ul>
 <li>WePY (发音: /'wepi/)是一款让小程序支持组件化开发的框架，通过预编译的手段让开发者可以选择自己喜欢的开发风格去开发小程序。框架的细节优化，Promise，Async Functions的引入都是为了能让开发小程序项目变得更加简单，高效。</li>
 <li>同时WePY也是一款成长中的框架，大量吸收借鉴了一些优化前端工具以及框架的设计理念和思想。如果WePY有不足地方，或者你有更好的想法，欢迎提交ISSUE或者PR。</li>
 </ul>
+<!-- more -->
 <h2 id="特性">特性：</h2>
 <ul>
 <li>类Vue开发风格</li>
