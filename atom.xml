@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arecall.github.io/</id>
     <title>Thy博客</title>
-    <updated>2019-06-26T04:38:53.595Z</updated>
+    <updated>2019-06-30T01:31:48.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arecall.github.io/"/>
     <link rel="self" href="https://arecall.github.io//atom.xml"/>
@@ -11,12 +11,47 @@
     <icon>https://arecall.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Thy博客</rights>
     <entry>
+        <title type="html"><![CDATA[ 蔚来汽车软件负责人庄莉离职，软件团队分拆汇报线]]></title>
+        <id>https://arecall.github.io//post/36-ke-du-jia-or-wei-lai-qi-che-ruan-jian-fu-ze-ren-zhuang-li-chi-zhi-ruan-jian-tuan-dui-fen-chai-hui-bao-xian</id>
+        <link href="https://arecall.github.io//post/36-ke-du-jia-or-wei-lai-qi-che-ruan-jian-fu-ze-ren-zhuang-li-chi-zhi-ruan-jian-tuan-dui-fen-chai-hui-bao-xian">
+        </link>
+        <updated>2019-06-30T01:25:10.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>伴随庄莉离职的，是蔚来正在对中国的软件团队进行调整。</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>伴随庄莉离职的，是蔚来正在对中国的软件团队进行调整。</strong></p>
+<!-- more -->
+<p>6氪从多个信源处获悉，蔚来软件发展（中国）副总裁庄莉已于近日离职。蔚来总裁秦力洪向36氪确认了此消息，“庄莉博士因为个人原因离职，工作已充分交接。”</p>
+<p>伴随庄莉离职的，是蔚来正在对软件团队进行调整。</p>
+<p>一位知情人士透露，在庄莉离职前不久，蔚来北京和上海的软件团队已经在拆开，分别施行双线汇报，比如，上海的软件开发团队向蔚来企业发展副总裁周欣汇报，同时也向李斌汇报。而此前，北京和上海的软件团队都向庄莉汇报。</p>
+<p>“斌总现在比较重视软件业务，所以这块他也会直接来管。”上述知情人士表示。</p>
+<p>庄莉是清华大学计算机系96级学员，与其丈夫有道CEO周峰、搜狗CEO王小川等为同窗，2008年，庄莉在伯克利大学获取博士学位。加入蔚来之前，庄莉曾担任猎豹移动工程副总裁。</p>
+<p>2016年7月，庄莉加入中国新造车公司蔚来，担任蔚来软件发展（中国）副总裁，负责蔚来中国软件开发工作，包括北京的车联网、TSP、上海与整车相关的中控等业务。</p>
+<p>2018年底，蔚来对北美业务汇报线进行调整，庄莉的管理权限得以扩大。</p>
+<p>36氪独家 | 蔚来汽车软件负责人庄莉离职，软件团队分拆汇报线</p>
+<p>蔚来软件发展（中国）副总裁庄莉</p>
+<p>2018年12月中旬，蔚来北美CEO Padmasree Warrior离职，原本由Padmasree Warrior负责的北美业务统一向中国总部汇报，包括自动驾驶、数字系统、信息架构等业务直接由蔚来CEO李斌负责，其中CDC（智能座舱）业务团队，也和中国打通，向北京的庄莉汇报。</p>
+<p>36氪曾报道，因中美两地研发部门的配合出现龃龉，蔚来软件系统的完成度曾屡遭诟病，出现系统死机、黑屏、断网、NOMI半夜唱歌等问题。</p>
+<p>在北美的CDC业务向庄莉汇报之前，蔚来的软件系统已经连续3个月，没有新的版本更新，而庄莉接手CDC业务的2018年12月底，蔚来即推出1.2.0版本的软件升级。据36氪了解，这次升级原本是在2019年1月底才会推出。</p>
+<p>虽然委以“重权”，蔚来依然没有留住这枚大将。</p>
+<p>今年5月，有媒体曝出，庄莉参与创建车联网公司镁佳（北京）科技有限公司（下称“镁佳科技”），指向庄莉出走创业的动向。对此消息，蔚来官方未进行正面回应，庄莉也仅在蔚来APP上留言表示，自身的工作是写软件，不是回应八卦。</p>
+<p>工商信息显示，镁佳科技成立于2018年8月，是一家香港独资公司，法人是刘威。该公司经营包括包括智能智能数字座舱系统、车载网联控制器、智能语音交互系统等产品，与庄莉在蔚来管辖的业务有不少重叠。</p>
+<p>从公开信息中，未发现庄莉与镁佳科技存在股权关联，不过与镁佳科技有过合作的知情人士向36氪透露，镁佳科技的一位负责人曾是蔚来北美员工，而庄莉也曾出面帮助镁佳对接过不少业务资源。</p>
+<p>蔚来汽车的软件功能在饱受诟病之后，于2019年6月10号推出NIO OS 2.0版本，对界面交互逻辑做了优化，同时推出了智能驾驶NIO Pilot的主体功能，包括打灯自动变道、车道居中控制和拥堵辅助等功能。</p>
+<p>经历一系列波折，蔚来的软件研发体系似乎刚迈入平稳发展期，庄莉的离开是否会对这个成型不易的根基带来震动，蔚来总裁秦力洪向36氪表示，“庄莉的工作已充分交接，平稳过渡，对公司业务没有影响。”</p>
+<p>原创文章，作者：李勤。转载或内容合作请点击 转载说明 ，违规转载法律必究。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[惠普暗影精灵2 Mojave（几乎完美黑苹果）]]></title>
         <id>https://arecall.github.io//post/hui-pu-an-ying-jing-ling-2-mojaveji-hu-wan-mei-hei-ping-guo</id>
         <link href="https://arecall.github.io//post/hui-pu-an-ying-jing-ling-2-mojaveji-hu-wan-mei-hei-ping-guo">
         </link>
         <updated>2019-06-26T04:05:15.000Z</updated>
-        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+        <summary type="html"><![CDATA[<p>2018年6月5日，在2018苹果全球开发者大会上，苹果发布了mac OS Mojave系统。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2018年6月5日，在2018苹果全球开发者大会上，苹果发布了mac OS Mojave系统。</p>
+<!-- more -->
+<p><ul class="markdownIt-TOC">
 <li>
 <ul>
 <li><a href="#%E6%96%B0%E7%9A%84%E6%94%B9%E5%8F%98">新的改变</a></li>
@@ -28,7 +63,6 @@
 </ul>
 (惠普暗影精灵2 Mojave)</p>
 <h2 id="新的改变">新的改变</h2>
-<p>2018年6月5日，在2018苹果全球开发者大会上，苹果发布了mac OS Mojave系统。</p>
 <ol>
 <li><strong>夜间模式</strong> ，MacOS Mojave的夜间模式，不仅使UI变暗，
 还切换壁纸，窗口边框和窗口内容，此外，XCode同样也支持夜间模式。用户可以自行设置夜晚模式，也可以由系统决定随时间自动启动。</li>
