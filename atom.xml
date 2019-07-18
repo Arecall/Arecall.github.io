@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arecall.github.io/</id>
     <title>Thy博客</title>
-    <updated>2019-06-30T02:00:59.696Z</updated>
+    <updated>2019-07-18T02:29:03.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arecall.github.io/"/>
     <link rel="self" href="https://arecall.github.io//atom.xml"/>
@@ -64,7 +64,7 @@
 (惠普暗影精灵2 Mojave)</p>
 <h2 id="新的改变">新的改变</h2>
 <ol>
-<li><strong>夜间模式</strong> ，MacOS Mojave的夜间模式，不仅使UI变暗，
+<li><strong>夜间模式</strong> ，MacOS Mojave的夜间模式，不仅使UI变暗，<br>
 还切换壁纸，窗口边框和窗口内容，此外，XCode同样也支持夜间模式。用户可以自行设置夜晚模式，也可以由系统决定随时间自动启动。</li>
 <li><strong>桌面堆积</strong>，可以通过类型、日期、标签等进行分类，侧栏底部的新快速操作，可快速执行旋转图像等操作。几乎可以在任何文件视图中使用侧边栏。如果选择多个文件，它可以对所有文件执行操作，例如将它们组装成PDF。</li>
 <li><strong>画廊视图（Gallery View）</strong>，可预览图片、视频、PPT、表格、PDF等，侧边栏支持完整元数据，右下角增加快捷工具栏可执行旋转等操作，侧边栏可以在几乎任何文件视图中使用，选择多个文件后可以执行整体操作如生成PDF。</li>
